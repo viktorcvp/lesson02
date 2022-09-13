@@ -1,0 +1,15 @@
+D:\ГОД 2021\D\vsc verstka\hometasks\Tasks\lesson02\obj\Debug\net6.0\lesson02.csproj.AssemblyReference.cache
+D:\ГОД 2021\D\vsc verstka\hometasks\Tasks\lesson02\obj\Debug\net6.0\lesson02.GeneratedMSBuildEditorConfig.editorconfig
+D:\ГОД 2021\D\vsc verstka\hometasks\Tasks\lesson02\obj\Debug\net6.0\lesson02.AssemblyInfoInputs.cache
+D:\ГОД 2021\D\vsc verstka\hometasks\Tasks\lesson02\obj\Debug\net6.0\lesson02.AssemblyInfo.cs
+D:\ГОД 2021\D\vsc verstka\hometasks\Tasks\lesson02\obj\Debug\net6.0\lesson02.csproj.CoreCompileInputs.cache
+D:\ГОД 2021\D\vsc verstka\hometasks\Tasks\lesson02\bin\Debug\net6.0\lesson02.exe
+D:\ГОД 2021\D\vsc verstka\hometasks\Tasks\lesson02\bin\Debug\net6.0\lesson02.deps.json
+D:\ГОД 2021\D\vsc verstka\hometasks\Tasks\lesson02\bin\Debug\net6.0\lesson02.runtimeconfig.json
+D:\ГОД 2021\D\vsc verstka\hometasks\Tasks\lesson02\bin\Debug\net6.0\lesson02.dll
+D:\ГОД 2021\D\vsc verstka\hometasks\Tasks\lesson02\bin\Debug\net6.0\lesson02.pdb
+D:\ГОД 2021\D\vsc verstka\hometasks\Tasks\lesson02\obj\Debug\net6.0\lesson02.dll
+D:\ГОД 2021\D\vsc verstka\hometasks\Tasks\lesson02\obj\Debug\net6.0\refint\lesson02.dll
+D:\ГОД 2021\D\vsc verstka\hometasks\Tasks\lesson02\obj\Debug\net6.0\lesson02.pdb
+D:\ГОД 2021\D\vsc verstka\hometasks\Tasks\lesson02\obj\Debug\net6.0\lesson02.genruntimeconfig.cache
+D:\ГОД 2021\D\vsc verstka\hometasks\Tasks\lesson02\obj\Debug\net6.0\ref\lesson02.dll
